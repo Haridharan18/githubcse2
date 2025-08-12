@@ -1,2 +1,3 @@
 hello new file
-modifying i am haridharan
+modifying file 
+i am haridharan
